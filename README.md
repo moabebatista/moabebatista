@@ -1,6 +1,6 @@
-## Olá! Eu sou o Moabe Batista!
+## Olá, tudo bem?
 
-:mortar_board: Estudante do **Curso de Desenvolvimento de Software FullStack** na **Cubos Academy**
+Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: em formação na **Cubos Academy**. Atualmente, estou desenvolvendo aplicações utilizando o **NodeJs** no Back End e o **ReactJS** no Front End. Apesar de estar me formando como Full Stack, tenho muita identificação pela stack de Front End. Sou estrovertido e gosto de aprender coisas novas todos os dias, ou seja, sempre estou a procura de novos desafios e atualmente o maior deles é conseguir meu primeiro emprego como desenvolvedor. [Aqui](https://github.com/moabebatista?tab=repositories) você encontrará os repositórios de projetos em que venho Desenvolvendo durante o curso de [Desenvolvimento de Software](https://cubos.academy/cursos/programacao-do-zero) Na **Cubos Academy**.
 
 ---
 
@@ -9,8 +9,9 @@
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api?username=moabebatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabebatista&layout=compact&langs_count=7&theme=dark"/>
 </div> 
-  
+
 ---
+##### Algumas das tecnologias com as quais tenho trabalhado durante o curso:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Moabe-VScode" height="40" width="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
