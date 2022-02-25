@@ -1,6 +1,6 @@
 ## Olá, tudo bem?
 
-Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: em formação na **Cubos Academy**. Atualmente, estou desenvolvendo aplicações utilizando o **NodeJs** no Back End e o **ReactJS** no Front End. Apesar de estar me formando como Full Stack, tenho muita identificação pela stack de Front End. Sou estrovertido e gosto de aprender coisas novas todos os dias, ou seja, sempre estou a procura de novos desafios e atualmente o maior deles é conseguir meu primeiro emprego como desenvolvedor. [Aqui](https://github.com/moabebatista?tab=repositories) você encontrará os repositórios de projetos em que venho Desenvolvendo durante o curso de [Desenvolvimento de Software](https://cubos.academy/cursos/programacao-do-zero) Na **Cubos Academy**.
+Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: formado na **Cubos Academy**. Atualmente, estou desenvolvendo aplicações utilizando o **NodeJs** no Back End e o **ReactJS** no Front End. Apesar de ter a formação como Full Stack, tenho muita identificação pela stack de Front End. Sou estrovertido e gosto de aprender coisas novas todos os dias, ou seja, sempre estou a procura de novos desafios e atualmente o maior deles é conseguir meu primeiro emprego como desenvolvedor. [Aqui](https://github.com/moabebatista?tab=repositories) você encontrará os repositórios de projetos que desenvolvi durante o curso de [Desenvolvimento de Software](https://cubos.academy/cursos/programacao-do-zero) Na **Cubos Academy**.
 
 ---
 
