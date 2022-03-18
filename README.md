@@ -11,7 +11,7 @@ Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: f
 </div> 
 
 ---
-##### Algumas das tecnologias com as quais tenho trabalhado durante o curso:
+##### Algumas das tecnologias com as quais tenho trabalhado:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Moabe-VScode" height="40" width="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
@@ -19,6 +19,7 @@ Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: f
   <img align="center" alt="Moabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Moabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Moabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://user-images.githubusercontent.com/83438974/159014317-809b6c1a-bcfe-4d7c-920c-f35714b18756.png">
   <img align="center" alt="Moabe-NodeJS" height="40" width="40" src="https://user-images.githubusercontent.com/83438974/137612047-eeacc548-95ad-4837-abe0-88c9e969e540.jpg">
     <img align="center" alt="Moabe-PostgreSQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
     <img align="center" alt="Moabe-Nodemon" height="40" width="40" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg">
