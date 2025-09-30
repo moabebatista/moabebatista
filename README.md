@@ -27,6 +27,9 @@ Meu nome é **Moabe Batista** e sou **Desenvolvedor FullStack** :mortar_board: f
     <img align="center" alt="Moabe-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </kbd>
   <kbd>
+    <img align="center" alt="Moabe-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </kbd>
+  <kbd>
     <img align="center" alt="Moabe-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </kbd>
   <kbd>
